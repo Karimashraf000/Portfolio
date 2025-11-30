@@ -19,11 +19,11 @@ const Hero = () => {
                     </h2>
                     <h1 className="text-5xl md:text-7xl font-bold font-outfit mb-6 leading-tight">
                         <span className="bg-gradient-to-r from-gray-900 to-gray-600 dark:from-white dark:to-gray-400 bg-clip-text text-transparent">
-                            Flutter Developer
+                            Mobile Developer
                         </span>
                         <br />
                         <span className="text-3xl md:text-5xl text-gray-600 dark:text-gray-500">
-                            & React Enthusiast
+                             ReactNative Enthusiast
                         </span>
                     </h1>
                     <p className="text-gray-600 dark:text-gray-400 max-w-2xl mx-auto text-lg mb-10 leading-relaxed">

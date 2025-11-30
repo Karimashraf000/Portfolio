@@ -16,7 +16,7 @@ const About = () => {
                         About Me
                     </h2>
                     <p className="text-gray-600 dark:text-gray-400 text-lg leading-relaxed mb-6">
-                        I am a passionate Flutter Developer with a strong foundation in web technologies like React.js.
+                        I am a passionate ReactNative Developer with a strong foundation in web technologies like React.js.
                         My journey began with a curiosity for how things work on the screen, leading me to specialize in creating
                         fluid, responsive, and user-friendly applications.
                     </p>

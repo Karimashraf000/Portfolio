@@ -1,16 +1,14 @@
-import React from 'react';
 import { motion } from 'framer-motion';
-import { SiFlutter, SiDart, SiReact, SiJavascript, SiHtml5, SiCss3, SiGit, SiFirebase } from 'react-icons/si';
+import { SiReact, SiJavascript, SiHtml5, SiCss3, SiGit,SiTypescript, SiTailwindcss } from 'react-icons/si';
 
 const skills = [
-    { name: 'Flutter', icon: <SiFlutter className="text-blue-400" />, level: 'Advanced' },
-    { name: 'Dart', icon: <SiDart className="text-blue-500" />, level: 'Advanced' },
     { name: 'React', icon: <SiReact className="text-cyan-400" />, level: 'Intermediate' },
     { name: 'JavaScript', icon: <SiJavascript className="text-yellow-400" />, level: 'Intermediate' },
+    { name: 'TypeScript', icon: <SiTypescript className="text-yellow-500" />, level: 'Intermediate' },
     { name: 'HTML5', icon: <SiHtml5 className="text-orange-500" />, level: 'Advanced' },
-    { name: 'CSS3', icon: <SiCss3 className="text-blue-600" />, level: 'Advanced' },
+    { name: 'CSS3', icon: <SiCss3 className="text-blue-600" />, level: 'Advanced' },  
     { name: 'Git', icon: <SiGit className="text-red-500" />, level: 'Intermediate' },
-    { name: 'Firebase', icon: <SiFirebase className="text-yellow-500" />, level: 'Intermediate' },
+    { name: 'Tailwindcss', icon: <SiTailwindcss className="text-cyan-400" />, level: 'Intermediate' }, 
 ];
 
 const Skills = () => {

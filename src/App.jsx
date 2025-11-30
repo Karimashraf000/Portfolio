@@ -7,7 +7,6 @@ import Projects from './components/Projects';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
 import BackgroundAnimation from './components/BackgroundAnimation';
-
 import { ThemeProvider } from './context/ThemeContext';
 
 function App() {
